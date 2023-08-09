@@ -5,7 +5,9 @@
   <a ><img src="mirai.webp" width="800" height="=400" alt="cnqs"></a>
 </p>
 
-<a title="github" target="_blank" href="https://github.com/Kuriyama-Mirai"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DKuriyama-Mirai&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
+[![](https://img.shields.io/badge/%40Kuruiyama-Mirai-black?style=flat&logo=Github&color=black)](https://github.com/Kuruiyama-Mirai)
+[![](https://img.shields.io/badge/Bilibili-pink?style=flat&logo=bilibili)](https://space.bilibili.com/40713567)
+
 
 ### 
 - 🌱 I’m currently learning Golang
@@ -14,7 +16,13 @@
 - ⚡ Fun fact: i love anime, especially love Mirai. A future without a future is not the future I want!!!
 - 💬 Ask me about **Golang, Python, Go-zero ect.**
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
+![Golang](https://img.shields.io/badge/Golang-red?style=flat-square&logo=go)
+![Go zero](https://img.shields.io/badge/Go%20zero-black?style=flat-square&logo=go%20zero)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker)
+![Python](https://img.shields.io/badge/Python-purple?style=flat-square&logo=python)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
 ### 𝗦𝘁𝗮𝘁𝘀
 
