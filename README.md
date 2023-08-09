@@ -1,5 +1,5 @@
 <h1 align="center" >Hi 👏 I'm Kuruiyama-Mirai </h1>
-<h2 align="center">Welcome to my GitHub profile ( •̀ ω •́ )y</h2>
+<h2 align="center">Welcome to my GitHub profile ( •̀ ω •́ )</h2>
 
 <p align="center">
   <a ><img src="mirai.webp" width="800" height="=400" alt="cnqs"></a>
