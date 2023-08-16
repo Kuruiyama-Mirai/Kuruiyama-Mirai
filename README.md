@@ -26,7 +26,8 @@
 
 ### 𝗦𝘁𝗮𝘁𝘀
 
-![Kuruiyama-Mirai's github stats](https://github-readme-stats.vercel.app/api?username=Kuruiyama-Mirai&show_icons=true&theme=panda)
+![Kuruiyama-Mirai's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=Kuruiyama-Mirai&count_private=true&show_icons=true&theme=panda)
+
 
 ![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=Kuruiyama-Mirai&layout=compact&theme=panda)
 
