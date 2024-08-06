@@ -14,7 +14,7 @@
 - 🤔 I’m looking for job ...
 - 📫 How to reach me: (QQ)1780759836 (Mail)1780759836@qq.com (Phone)17803866089
 - ⚡ Fun fact: i love anime, especially love Mirai. A future without Mirai is not the future I want!!!
-- 💬 Ask me about **Golang, Python, Go-zero ect.**
+- 💬 Ask me about **Golang, Python, ect.**
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![Golang](https://img.shields.io/badge/Golang-red?style=flat-square&logo=go)
